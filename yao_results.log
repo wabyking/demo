@@ -1,0 +1,1090 @@
+{'1990': 0, '1991': 1, '1992': 2, '1993': 3, '1994': 4, '1995': 5, '1996': 6, '1997': 7, '1998': 8, '1999': 9, '2000': 10, '2001': 11, '2002': 12, '2003': 13, '2004': 14, '2005': 15, '2006': 16, '2007': 17, '2008': 18, '2009': 19, '2010': 20, '2011': 21, '2012': 22, '2013': 23, '2014': 24, '2015': 25, '2016': 26}
+save log in nyt_yao_tiny.txt.norm-1-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 1-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/0/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1705	0.0543	0.1531	0.2395	0.4395
+(11028, 100)
+original len 11028 and finally 11028
+0.1147	0.0277	0.0853	0.1439	0.3015
+save log in nyt_yao_tiny.txt.norm-2-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 2-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/1/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1691	0.0543	0.1531	0.2420	0.4296
+(11028, 100)
+original len 11028 and finally 11028
+0.1123	0.0258	0.0819	0.1396	0.2949
+save log in nyt_yao_tiny.txt.norm-3-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 3-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/2/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1663	0.0519	0.1481	0.2420	0.4198
+(11028, 100)
+original len 11028 and finally 11028
+0.1115	0.0265	0.0795	0.1380	0.2900
+save log in nyt_yao_tiny.txt.norm-4-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 4-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/3/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1633	0.0519	0.1383	0.2296	0.4222
+(11028, 100)
+original len 11028 and finally 11028
+0.1102	0.0253	0.0776	0.1371	0.2867
+save log in nyt_yao_tiny.txt.norm-5-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 5-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/4/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1662	0.0543	0.1457	0.2296	0.4123
+(11028, 100)
+original len 11028 and finally 11028
+0.1086	0.0238	0.0764	0.1328	0.2843
+save log in nyt_yao_tiny.txt.norm-6-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 6-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/5/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1673	0.0519	0.1556	0.2272	0.4296
+(11028, 100)
+original len 11028 and finally 11028
+0.1076	0.0237	0.0746	0.1301	0.2832
+save log in nyt_yao_tiny.txt.norm-7-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 7-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/6/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1701	0.0568	0.1506	0.2321	0.4148
+(11028, 100)
+original len 11028 and finally 11028
+0.1070	0.0234	0.0731	0.1288	0.2818
+save log in nyt_yao_tiny.txt.norm-8-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 8-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/7/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1691	0.0543	0.1556	0.2370	0.4198
+(11028, 100)
+original len 11028 and finally 11028
+0.1063	0.0232	0.0723	0.1257	0.2792
+save log in nyt_yao_tiny.txt.norm-9-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 9-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/8/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1714	0.0568	0.1605	0.2346	0.4198
+(11028, 100)
+original len 11028 and finally 11028
+0.1046	0.0218	0.0699	0.1230	0.2768
+save log in nyt_yao_tiny.txt.norm-10-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 10-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/9/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1695	0.0519	0.1605	0.2469	0.4173
+(11028, 100)
+original len 11028 and finally 11028
+0.1032	0.0209	0.0665	0.1210	0.2768
+save log in nyt_yao_tiny.txt.norm-11-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 11-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/10/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1657	0.0494	0.1506	0.2444	0.4198
+(11028, 100)
+original len 11028 and finally 11028
+0.1018	0.0201	0.0643	0.1182	0.2732
+save log in nyt_yao_tiny.txt.norm-12-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 12-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/11/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1629	0.0469	0.1457	0.2395	0.4222
+(11028, 100)
+original len 11028 and finally 11028
+0.1005	0.0190	0.0619	0.1178	0.2739
+save log in nyt_yao_tiny.txt.norm-13-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 13-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/12/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1625	0.0469	0.1481	0.2370	0.4272
+(11028, 100)
+original len 11028 and finally 11028
+0.0995	0.0180	0.0606	0.1172	0.2728
+save log in nyt_yao_tiny.txt.norm-14-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 14-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/13/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1598	0.0444	0.1407	0.2272	0.4247
+(11028, 100)
+original len 11028 and finally 11028
+0.0985	0.0175	0.0593	0.1151	0.2688
+save log in nyt_yao_tiny.txt.norm-15-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 15-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/14/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1576	0.0420	0.1407	0.2321	0.4296
+(11028, 100)
+original len 11028 and finally 11028
+0.0980	0.0173	0.0582	0.1135	0.2688
+save log in nyt_yao_tiny.txt.norm-16-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 16-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/15/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1574	0.0420	0.1407	0.2247	0.4321
+(11028, 100)
+original len 11028 and finally 11028
+0.0975	0.0169	0.0583	0.1114	0.2683
+save log in nyt_yao_tiny.txt.norm-17-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 17-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/16/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1572	0.0420	0.1383	0.2296	0.4321
+(11028, 100)
+original len 11028 and finally 11028
+0.0968	0.0162	0.0573	0.1119	0.2669
+save log in nyt_yao_tiny.txt.norm-18-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 18-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/17/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1584	0.0444	0.1333	0.2272	0.4346
+(11028, 100)
+original len 11028 and finally 11028
+0.0967	0.0170	0.0564	0.1103	0.2669
+save log in nyt_yao_tiny.txt.norm-19-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 19-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/18/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1588	0.0444	0.1383	0.2247	0.4198
+(11028, 100)
+original len 11028 and finally 11028
+0.0965	0.0165	0.0565	0.1094	0.2664
+save log in nyt_yao_tiny.txt.norm-20-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 20-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/19/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1591	0.0444	0.1358	0.2296	0.4272
+(11028, 100)
+original len 11028 and finally 11028
+0.0970	0.0172	0.0574	0.1084	0.2672
+save log in nyt_yao_tiny.txt.norm-21-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 21-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/20/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1581	0.0420	0.1383	0.2296	0.4272
+(11028, 100)
+original len 11028 and finally 11028
+0.0969	0.0171	0.0570	0.1086	0.2661
+save log in nyt_yao_tiny.txt.norm-22-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 22-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/21/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1572	0.0420	0.1333	0.2272	0.4296
+(11028, 100)
+original len 11028 and finally 11028
+0.0969	0.0173	0.0565	0.1081	0.2663
+save log in nyt_yao_tiny.txt.norm-23-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 23-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/22/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1561	0.0420	0.1333	0.2222	0.4272
+(11028, 100)
+original len 11028 and finally 11028
+0.0968	0.0170	0.0568	0.1081	0.2656
+save log in nyt_yao_tiny.txt.norm-24-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 24-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/23/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1560	0.0420	0.1259	0.2247	0.4222
+(11028, 100)
+original len 11028 and finally 11028
+0.0966	0.0168	0.0570	0.1076	0.2643
+save log in nyt_yao_tiny.txt.norm-25-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 25-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/24/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1558	0.0420	0.1284	0.2222	0.4247
+(11028, 100)
+original len 11028 and finally 11028
+0.0969	0.0167	0.0573	0.1068	0.2642
+save log in nyt_yao_tiny.txt.norm-26-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 26-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/25/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1543	0.0395	0.1309	0.2222	0.4296
+(11028, 100)
+original len 11028 and finally 11028
+0.0971	0.0167	0.0573	0.1095	0.2654
+save log in nyt_yao_tiny.txt.norm-27-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 27-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/26/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1531	0.0395	0.1284	0.2198	0.4272
+(11028, 100)
+original len 11028 and finally 11028
+0.0971	0.0170	0.0575	0.1091	0.2651
+save log in nyt_yao_tiny.txt.norm-28-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 28-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/27/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1524	0.0395	0.1284	0.2173	0.4148
+(11028, 100)
+original len 11028 and finally 11028
+0.0971	0.0172	0.0574	0.1099	0.2631
+save log in nyt_yao_tiny.txt.norm-29-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 29-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/28/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1515	0.0395	0.1259	0.2148	0.4123
+(11028, 100)
+original len 11028 and finally 11028
+0.0970	0.0177	0.0562	0.1082	0.2622
+save log in nyt_yao_tiny.txt.norm-30-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 30-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/29/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1514	0.0395	0.1259	0.2148	0.4049
+(11028, 100)
+original len 11028 and finally 11028
+0.0968	0.0174	0.0564	0.1088	0.2628
+save log in nyt_yao_tiny.txt.norm-31-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 31-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/30/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1514	0.0395	0.1259	0.2173	0.4099
+(11028, 100)
+original len 11028 and finally 11028
+0.0968	0.0176	0.0559	0.1085	0.2639
+save log in nyt_yao_tiny.txt.norm-32-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 32-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/31/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1505	0.0395	0.1210	0.2173	0.4123
+(11028, 100)
+original len 11028 and finally 11028
+0.0965	0.0172	0.0557	0.1087	0.2635
+save log in nyt_yao_tiny.txt.norm-33-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 33-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/32/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1500	0.0395	0.1210	0.2123	0.4173
+(11028, 100)
+original len 11028 and finally 11028
+0.0966	0.0174	0.0550	0.1094	0.2642
+save log in nyt_yao_tiny.txt.norm-34-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 34-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/33/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1491	0.0395	0.1160	0.2123	0.4123
+(11028, 100)
+original len 11028 and finally 11028
+0.0967	0.0175	0.0550	0.1089	0.2638
+save log in nyt_yao_tiny.txt.norm-35-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 35-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/34/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1485	0.0395	0.1136	0.2123	0.4123
+(11028, 100)
+original len 11028 and finally 11028
+0.0967	0.0175	0.0545	0.1085	0.2641
+save log in nyt_yao_tiny.txt.norm-36-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 36-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/35/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1483	0.0395	0.1111	0.2099	0.4074
+(11028, 100)
+original len 11028 and finally 11028
+0.0966	0.0176	0.0540	0.1089	0.2633
+save log in nyt_yao_tiny.txt.norm-37-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 37-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/36/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1462	0.0370	0.1111	0.2099	0.4025
+(11028, 100)
+original len 11028 and finally 11028
+0.0969	0.0181	0.0545	0.1092	0.2631
+save log in nyt_yao_tiny.txt.norm-38-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 38-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/37/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1435	0.0346	0.1086	0.2049	0.3975
+(11028, 100)
+original len 11028 and finally 11028
+0.0970	0.0184	0.0539	0.1088	0.2631
+save log in nyt_yao_tiny.txt.norm-39-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 39-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/38/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1440	0.0370	0.1062	0.2000	0.4000
+(11028, 100)
+original len 11028 and finally 11028
+0.0968	0.0180	0.0539	0.1100	0.2637
+save log in nyt_yao_tiny.txt.norm-40-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 40-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/39/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1431	0.0370	0.1037	0.2000	0.4025
+(11028, 100)
+original len 11028 and finally 11028
+0.0965	0.0175	0.0537	0.1094	0.2636
+save log in nyt_yao_tiny.txt.norm-41-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 41-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/40/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1416	0.0346	0.1062	0.1951	0.4000
+(11028, 100)
+original len 11028 and finally 11028
+0.0963	0.0174	0.0539	0.1087	0.2626
+save log in nyt_yao_tiny.txt.norm-42-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 42-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/41/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1412	0.0346	0.1062	0.1901	0.3975
+(11028, 100)
+original len 11028 and finally 11028
+0.0960	0.0168	0.0542	0.1078	0.2627
+save log in nyt_yao_tiny.txt.norm-43-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 43-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/42/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1413	0.0346	0.1062	0.1926	0.3975
+(11028, 100)
+original len 11028 and finally 11028
+0.0956	0.0163	0.0532	0.1076	0.2624
+save log in nyt_yao_tiny.txt.norm-44-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 44-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/43/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1408	0.0346	0.1062	0.1901	0.4025
+(11028, 100)
+original len 11028 and finally 11028
+0.0956	0.0161	0.0530	0.1076	0.2641
+save log in nyt_yao_tiny.txt.norm-45-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 45-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/44/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1391	0.0346	0.1012	0.1852	0.4000
+(11028, 100)
+original len 11028 and finally 11028
+0.0956	0.0162	0.0537	0.1077	0.2641
+save log in nyt_yao_tiny.txt.norm-46-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 46-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/45/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1368	0.0321	0.0988	0.1852	0.3926
+(11028, 100)
+original len 11028 and finally 11028
+0.0959	0.0170	0.0525	0.1084	0.2642
+save log in nyt_yao_tiny.txt.norm-47-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 47-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/46/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1385	0.0321	0.1062	0.1852	0.3951
+(11028, 100)
+original len 11028 and finally 11028
+0.0957	0.0165	0.0534	0.1078	0.2652
+save log in nyt_yao_tiny.txt.norm-48-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 48-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/47/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1371	0.0321	0.0988	0.1852	0.3951
+(11028, 100)
+original len 11028 and finally 11028
+0.0960	0.0167	0.0540	0.1081	0.2651
+save log in nyt_yao_tiny.txt.norm-49-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 49-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/48/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1363	0.0296	0.1012	0.1877	0.3951
+(11028, 100)
+original len 11028 and finally 11028
+0.0961	0.0168	0.0533	0.1083	0.2647
+save log in nyt_yao_tiny.txt.norm-50-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 50-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/49/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1386	0.0321	0.1062	0.1877	0.3951
+(11028, 100)
+original len 11028 and finally 11028
+0.0957	0.0165	0.0530	0.1078	0.2648
+save log in nyt_yao_tiny.txt.norm-51-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 51-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/50/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1363	0.0296	0.1037	0.1877	0.3926
+(11028, 100)
+original len 11028 and finally 11028
+0.0958	0.0165	0.0530	0.1083	0.2645
+save log in nyt_yao_tiny.txt.norm-52-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 52-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/51/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1370	0.0321	0.1012	0.1802	0.3877
+(11028, 100)
+original len 11028 and finally 11028
+0.0959	0.0167	0.0530	0.1091	0.2653
+save log in nyt_yao_tiny.txt.norm-53-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 53-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/52/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1367	0.0321	0.1012	0.1728	0.3852
+(11028, 100)
+original len 11028 and finally 11028
+0.0958	0.0162	0.0533	0.1094	0.2660
+save log in nyt_yao_tiny.txt.norm-54-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 54-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/53/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1362	0.0321	0.0988	0.1728	0.3852
+(11028, 100)
+original len 11028 and finally 11028
+0.0957	0.0165	0.0531	0.1092	0.2658
+save log in nyt_yao_tiny.txt.norm-55-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 55-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/54/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1356	0.0321	0.0963	0.1704	0.3802
+(11028, 100)
+original len 11028 and finally 11028
+0.0952	0.0159	0.0511	0.1083	0.2665
+save log in nyt_yao_tiny.txt.norm-56-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 56-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/55/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1355	0.0321	0.0963	0.1679	0.3827
+(11028, 100)
+original len 11028 and finally 11028
+0.0953	0.0157	0.0520	0.1085	0.2680
+save log in nyt_yao_tiny.txt.norm-57-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 57-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/56/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1355	0.0321	0.0938	0.1679	0.3926
+(11028, 100)
+original len 11028 and finally 11028
+0.0953	0.0155	0.0526	0.1077	0.2676
+save log in nyt_yao_tiny.txt.norm-58-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 58-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/57/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1347	0.0321	0.0914	0.1654	0.3827
+(11028, 100)
+original len 11028 and finally 11028
+0.0952	0.0154	0.0523	0.1083	0.2680
+save log in nyt_yao_tiny.txt.norm-59-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 59-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/58/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1349	0.0321	0.0914	0.1704	0.3827
+(11028, 100)
+original len 11028 and finally 11028
+0.0950	0.0153	0.0524	0.1079	0.2684
+save log in nyt_yao_tiny.txt.norm-60-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 60-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/59/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1336	0.0296	0.0914	0.1630	0.3852
+(11028, 100)
+original len 11028 and finally 11028
+0.0950	0.0152	0.0524	0.1083	0.2692
+save log in nyt_yao_tiny.txt.norm-61-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 61-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/60/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1336	0.0296	0.0963	0.1605	0.3901
+(11028, 100)
+original len 11028 and finally 11028
+0.0949	0.0149	0.0526	0.1087	0.2698
+save log in nyt_yao_tiny.txt.norm-62-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 62-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/61/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1333	0.0296	0.0914	0.1630	0.3877
+(11028, 100)
+original len 11028 and finally 11028
+0.0949	0.0149	0.0524	0.1088	0.2687
+save log in nyt_yao_tiny.txt.norm-63-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 63-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/62/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1324	0.0296	0.0889	0.1630	0.3802
+(11028, 100)
+original len 11028 and finally 11028
+0.0950	0.0151	0.0525	0.1094	0.2694
+save log in nyt_yao_tiny.txt.norm-64-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 64-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/63/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1322	0.0296	0.0889	0.1605	0.3778
+(11028, 100)
+original len 11028 and finally 11028
+0.0951	0.0153	0.0530	0.1096	0.2696
+save log in nyt_yao_tiny.txt.norm-65-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 65-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/64/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1315	0.0296	0.0864	0.1580	0.3728
+(11028, 100)
+original len 11028 and finally 11028
+0.0949	0.0150	0.0528	0.1085	0.2686
+save log in nyt_yao_tiny.txt.norm-66-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 66-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/65/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1316	0.0296	0.0914	0.1481	0.3802
+(11028, 100)
+original len 11028 and finally 11028
+0.0953	0.0154	0.0537	0.1092	0.2690
+save log in nyt_yao_tiny.txt.norm-67-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 67-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/66/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1321	0.0296	0.0938	0.1580	0.3704
+(11028, 100)
+original len 11028 and finally 11028
+0.0954	0.0155	0.0533	0.1088	0.2680
+save log in nyt_yao_tiny.txt.norm-68-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 68-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/67/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1315	0.0296	0.0914	0.1506	0.3728
+(11028, 100)
+original len 11028 and finally 11028
+0.0955	0.0155	0.0541	0.1103	0.2691
+save log in nyt_yao_tiny.txt.norm-69-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 69-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/68/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1314	0.0296	0.0914	0.1531	0.3704
+(11028, 100)
+original len 11028 and finally 11028
+0.0954	0.0152	0.0547	0.1097	0.2683
+save log in nyt_yao_tiny.txt.norm-70-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 70-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/69/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1316	0.0296	0.0914	0.1531	0.3679
+(11028, 100)
+original len 11028 and finally 11028
+0.0949	0.0149	0.0538	0.1088	0.2684
+save log in nyt_yao_tiny.txt.norm-71-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 71-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/70/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1304	0.0296	0.0815	0.1580	0.3654
+(11028, 100)
+original len 11028 and finally 11028
+0.0952	0.0155	0.0536	0.1094	0.2667
+save log in nyt_yao_tiny.txt.norm-72-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 72-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/71/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1308	0.0272	0.0914	0.1654	0.3679
+(11028, 100)
+original len 11028 and finally 11028
+0.0952	0.0152	0.0533	0.1099	0.2667
+save log in nyt_yao_tiny.txt.norm-73-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 73-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/72/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1320	0.0296	0.0914	0.1654	0.3630
+(11028, 100)
+original len 11028 and finally 11028
+0.0951	0.0151	0.0541	0.1093	0.2668
+save log in nyt_yao_tiny.txt.norm-74-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 74-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/73/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1302	0.0272	0.0889	0.1630	0.3654
+(11028, 100)
+original len 11028 and finally 11028
+0.0952	0.0151	0.0546	0.1105	0.2670
+save log in nyt_yao_tiny.txt.norm-75-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 75-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/74/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1295	0.0272	0.0889	0.1605	0.3704
+(11028, 100)
+original len 11028 and finally 11028
+0.0953	0.0150	0.0552	0.1094	0.2674
+save log in nyt_yao_tiny.txt.norm-76-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 76-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/75/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1298	0.0272	0.0864	0.1654	0.3704
+(11028, 100)
+original len 11028 and finally 11028
+0.0958	0.0153	0.0561	0.1098	0.2672
+save log in nyt_yao_tiny.txt.norm-77-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 77-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/76/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1288	0.0272	0.0840	0.1654	0.3580
+(11028, 100)
+original len 11028 and finally 11028
+0.0959	0.0155	0.0561	0.1099	0.2667
+save log in nyt_yao_tiny.txt.norm-78-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 78-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/77/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1293	0.0272	0.0864	0.1630	0.3605
+(11028, 100)
+original len 11028 and finally 11028
+0.0959	0.0156	0.0554	0.1104	0.2679
+save log in nyt_yao_tiny.txt.norm-79-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 79-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/78/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1282	0.0272	0.0864	0.1630	0.3605
+(11028, 100)
+original len 11028 and finally 11028
+0.0960	0.0156	0.0560	0.1104	0.2689
+save log in nyt_yao_tiny.txt.norm-80-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 80-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/79/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1279	0.0272	0.0840	0.1630	0.3556
+(11028, 100)
+original len 11028 and finally 11028
+0.0961	0.0156	0.0559	0.1110	0.2688
+save log in nyt_yao_tiny.txt.norm-81-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 81-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/80/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1284	0.0272	0.0840	0.1605	0.3580
+(11028, 100)
+original len 11028 and finally 11028
+0.0963	0.0159	0.0565	0.1109	0.2693
+save log in nyt_yao_tiny.txt.norm-82-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 82-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/81/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1281	0.0272	0.0840	0.1605	0.3531
+(11028, 100)
+original len 11028 and finally 11028
+0.0963	0.0160	0.0559	0.1106	0.2679
+save log in nyt_yao_tiny.txt.norm-83-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 83-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/82/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1294	0.0296	0.0864	0.1605	0.3531
+(11028, 100)
+original len 11028 and finally 11028
+0.0965	0.0160	0.0565	0.1117	0.2685
+save log in nyt_yao_tiny.txt.norm-84-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 84-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/83/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1287	0.0296	0.0840	0.1605	0.3531
+(11028, 100)
+original len 11028 and finally 11028
+0.0966	0.0161	0.0567	0.1115	0.2691
+save log in nyt_yao_tiny.txt.norm-85-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 85-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/84/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1278	0.0272	0.0840	0.1605	0.3580
+(11028, 100)
+original len 11028 and finally 11028
+0.0964	0.0157	0.0568	0.1112	0.2708
+save log in nyt_yao_tiny.txt.norm-86-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 86-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/85/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1289	0.0296	0.0840	0.1605	0.3481
+(11028, 100)
+original len 11028 and finally 11028
+0.0963	0.0157	0.0564	0.1114	0.2697
+save log in nyt_yao_tiny.txt.norm-87-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 87-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/86/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1288	0.0296	0.0840	0.1654	0.3457
+(11028, 100)
+original len 11028 and finally 11028
+0.0968	0.0161	0.0573	0.1108	0.2701
+save log in nyt_yao_tiny.txt.norm-88-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 88-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/87/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1278	0.0296	0.0815	0.1630	0.3457
+(11028, 100)
+original len 11028 and finally 11028
+0.0969	0.0163	0.0568	0.1112	0.2711
+save log in nyt_yao_tiny.txt.norm-89-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 89-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/88/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1278	0.0296	0.0815	0.1605	0.3457
+(11028, 100)
+original len 11028 and finally 11028
+0.0970	0.0161	0.0569	0.1112	0.2709
+save log in nyt_yao_tiny.txt.norm-90-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 90-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/89/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1277	0.0296	0.0840	0.1605	0.3432
+(11028, 100)
+original len 11028 and finally 11028
+0.0973	0.0164	0.0575	0.1117	0.2707
+save log in nyt_yao_tiny.txt.norm-91-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 91-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/90/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1275	0.0296	0.0790	0.1605	0.3432
+(11028, 100)
+original len 11028 and finally 11028
+0.0972	0.0162	0.0577	0.1116	0.2711
+save log in nyt_yao_tiny.txt.norm-92-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 92-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/91/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1271	0.0296	0.0790	0.1556	0.3358
+(11028, 100)
+original len 11028 and finally 11028
+0.0972	0.0161	0.0583	0.1123	0.2709
+save log in nyt_yao_tiny.txt.norm-93-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 93-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/92/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1269	0.0296	0.0790	0.1531	0.3407
+(11028, 100)
+original len 11028 and finally 11028
+0.0970	0.0160	0.0584	0.1105	0.2716
+save log in nyt_yao_tiny.txt.norm-94-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 94-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/93/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1263	0.0296	0.0765	0.1481	0.3383
+(11028, 100)
+original len 11028 and finally 11028
+0.0972	0.0161	0.0583	0.1113	0.2709
+save log in nyt_yao_tiny.txt.norm-95-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 95-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/94/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1262	0.0296	0.0790	0.1457	0.3358
+(11028, 100)
+original len 11028 and finally 11028
+0.0971	0.0160	0.0585	0.1116	0.2709
+save log in nyt_yao_tiny.txt.norm-96-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 96-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/95/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1252	0.0272	0.0790	0.1457	0.3383
+(11028, 100)
+original len 11028 and finally 11028
+0.0971	0.0157	0.0589	0.1119	0.2706
+save log in nyt_yao_tiny.txt.norm-97-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 97-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/96/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1248	0.0272	0.0741	0.1481	0.3407
+(11028, 100)
+original len 11028 and finally 11028
+0.0972	0.0160	0.0589	0.1127	0.2719
+save log in nyt_yao_tiny.txt.norm-98-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 98-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/97/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1238	0.0247	0.0790	0.1506	0.3407
+(11028, 100)
+original len 11028 and finally 11028
+0.0974	0.0161	0.0586	0.1121	0.2712
+save log in nyt_yao_tiny.txt.norm-99-word_mixed_fixed-sim_word_log.txt
+load model in nyt_yao_tiny.txt.norm-output50
+cannot find vectors.txt in nyt_yao_tiny.txt.norm-output50/word_mixed_fixed, try to find 99-th iteration
+used word_mixed_fixed
+load embeddings from nyt_yao_tiny.txt.norm-output50/word_mixed_fixed/98/vectors.txt
+(405, 100)
+original len 445 and finally 405
+0.1242	0.0272	0.0765	0.1506	0.3432
+(11028, 100)
+original len 11028 and finally 11028
+0.0971	0.0159	0.0583	0.1121	0.2707
