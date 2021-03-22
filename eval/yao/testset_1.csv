@@ -1,0 +1,1889 @@
+word,label,year
+dealbook,Business,2013
+kohlberg,Business,2014
+corp,Business,1991
+icahn,Business,2010
+nasdaq,Business,1991
+huntsman,Business,2008
+kravis,Business,2007
+dimon,Business,2007
+ubs,Business,2010
+blackstone,Business,2007
+sac,Business,2013
+kpmg,Business,2007
+morningstar,Business,1993
+bondholders,Business,2007
+jpmorgan,Business,2013
+buyout,Business,2007
+suisse,Business,2011
+stearns,Business,2007
+tyco,Business,2007
+liquidity,Business,2006
+underwriters,Business,1992
+indexes,Business,2010
+dow,Business,2007
+billings,Business,1993
+citigroup,Business,2007
+penney,Business,2011
+leveraged,Business,2007
+hsbc,Business,2015
+volcker,Business,2013
+inventories,Business,2015
+halliburton,Business,2014
+countrywide,Business,2007
+dividend,Business,2011
+derivatives,Business,2011
+opec,Business,1993
+automaker,Business,2015
+mergers,Business,2011
+securities,Business,2007
+dell,Business,2013
+warburg,Business,1990
+shareholders,Business,2014
+swaps,Business,2008
+vick,Business,1991
+barclays,Business,2007
+yields,Business,1991
+merrill,Business,2007
+capitalization,Business,2007
+equity,Business,2007
+witter,Business,1991
+viacom,Business,2013
+corzine,Business,2013
+bernanke,Business,2007
+airbus,Business,2006
+mitsubishi,Business,2004
+traders,Business,1991
+shareholder,Business,2010
+bullish,Business,1992
+berkshire,Business,2011
+stocks,Business,2008
+valuations,Business,2010
+creditors,Business,1994
+hedge,Business,2007
+stockholders,Business,2010
+subsidiaries,Business,2008
+renault,Business,1990
+fargo,Business,1991
+merger,Business,2007
+enron,Business,1996
+reuters,Business,2010
+deutsche,Business,2011
+paulson,Business,2011
+cnbc,Business,2013
+volkswagen,Business,2015
+benchmark,Business,2015
+investors,Business,2008
+salomon,Business,1990
+insurer,Business,2008
+procter,Business,2011
+bain,Business,2006
+equities,Business,2010
+valuation,Business,2010
+buffett,Business,2011
+goldman,Business,2014
+subprime,Business,2007
+macy,Business,1994
+comcast,Business,2015
+shares,Business,1991
+madoff,Business,2008
+advisors,Business,2013
+volatility,Business,2007
+nabisco,Business,1995
+regulator,Business,2008
+defaults,Business,2007
+bloomberg,Business,1993
+futures,Business,1990
+currencies,Business,2006
+lockheed,Business,1990
+index,Business,1991
+grasso,Business,2006
+pfizer,Business,2014
+kraft,Business,2009
+bp,Business,2008
+earnings,Business,2007
+trading,Business,2013
+portfolios,Business,2010
+emi,Business,2011
+takeover,Business,2007
+restructuring,Business,2009
+firms,Business,2007
+telecom,Business,1990
+newsletter,Business,2014
+composite,Business,1991
+yen,Business,2004
+lehman,Business,2008
+sachs,Business,2013
+gupta,Business,2011
+aetna,Business,2015
+transaction,Business,2010
+assets,Business,2008
+fannie,Business,2006
+bonds,Business,2014
+murdoch,Business,2007
+refinery,Business,1996
+retailer,Business,1991
+treasury,Business,1991
+chrysler,Business,2015
+fallon,Business,1998
+taxable,Business,1992
+worldcom,Business,2006
+merck,Business,2014
+chevron,Business,1993
+fiat,Business,2015
+banks,Business,2008
+dewey,Business,2012
+lender,Business,2014
+hyundai,Business,2000
+olympia,Business,1992
+mazda,Business,1996
+regulators,Business,2009
+termination,Business,2008
+commodities,Business,2014
+diller,Business,2008
+euros,Business,2003
+yield,Business,1991
+milken,Business,2008
+biotech,Business,1992
+ponzi,Business,2010
+investor,Business,2009
+spinoff,Business,1996
+banking,Business,2008
+sears,Business,1991
+pharmaceuticals,Business,2014
+profitability,Business,2010
+dupont,Business,2015
+miramax,Business,2010
+holdings,Business,2008
+proxy,Business,2009
+soros,Business,2011
+heinz,Business,2013
+brokerage,Business,2008
+ovitz,Business,2004
+euro,Business,2010
+reorganization,Business,2009
+boeing,Business,2013
+drexel,Business,1990
+vioxx,Business,2007
+sovereign,Business,2010
+fidelity,Business,1996
+roche,Business,2009
+certificates,Business,1991
+mortgages,Business,2013
+unchanged,Business,1991
+underwriting,Business,1991
+insider,Business,2014
+downgraded,Business,2008
+fitch,Business,2008
+consolidation,Business,2008
+bankruptcy,Business,2009
+santo,Business,2014
+portfolio,Business,2007
+automotive,Business,1991
+payrolls,Business,2015
+citi,Business,2007
+mae,Business,2007
+bankers,Business,2007
+shale,Business,2015
+schwab,Business,2007
+cents,Business,2015
+paine,Business,1994
+retailing,Business,1991
+asset,Business,2008
+acquisitions,Business,2011
+funds,Business,2008
+brands,Business,1993
+acquisition,Business,2009
+mci,Business,1990
+kmart,Business,1993
+diversified,Business,2007
+cablevision,Business,2010
+slowdown,Business,2007
+canucks,Sports,1997
+fehr,Sports,2010
+calipari,Sports,2008
+birdies,Sports,1993
+hingis,Sports,2006
+jagr,Sports,1992
+outscored,Sports,1991
+earnhardt,Sports,2000
+leetch,Sports,2000
+lundqvist,Sports,2007
+stoudemire,Sports,2008
+lindros,Sports,1994
+oilers,Sports,2012
+testaverde,Sports,1995
+camby,Sports,2013
+tebow,Sports,2007
+goaltender,Sports,1996
+grounder,Sports,1997
+mcgwire,Sports,1992
+homered,Sports,2008
+glavine,Sports,2008
+djokovic,Sports,2009
+gundy,Sports,2010
+scoreless,Sports,2013
+defenseman,Sports,2012
+cornerback,Sports,1995
+sabathia,Sports,2013
+pettitte,Sports,2010
+girardi,Sports,2013
+blackhawks,Sports,2009
+midfielder,Sports,2009
+brodeur,Sports,1998
+touchdowns,Sports,2015
+pga,Sports,1992
+favre,Sports,2006
+belichick,Sports,2011
+fassel,Sports,2000
+roddick,Sports,2010
+bogey,Sports,2015
+layup,Sports,2015
+pacers,Sports,2013
+minaya,Sports,2007
+mussina,Sports,1997
+backhand,Sports,1994
+preakness,Sports,2010
+leiter,Sports,1998
+rebounds,Sports,2007
+canadiens,Sports,2008
+parcells,Sports,2007
+forehand,Sports,1994
+bruins,Sports,2005
+beltran,Sports,2010
+strikeouts,Sports,2015
+interceptions,Sports,2014
+shutout,Sports,2007
+mickelson,Sports,2009
+slalom,Sports,1990
+seahawks,Sports,2010
+burress,Sports,2007
+paterno,Sports,2008
+goalkeeper,Sports,1990
+fouls,Sports,2015
+cashman,Sports,2007
+giambi,Sports,2007
+soriano,Sports,2013
+unbeaten,Sports,1996
+strahan,Sports,1996
+midfield,Sports,2013
+turnovers,Sports,2011
+touchdown,Sports,2007
+sabres,Sports,2010
+wildcats,Sports,2009
+linebackers,Sports,2011
+mcnabb,Sports,2010
+showalter,Sports,1994
+knoblauch,Sports,2008
+preseason,Sports,1997
+griffey,Sports,1990
+marlins,Sports,2013
+astros,Sports,2008
+leadoff,Sports,2011
+bengals,Sports,2008
+inning,Sports,2015
+fullback,Sports,2011
+sharapova,Sports,2007
+putt,Sports,2013
+reliever,Sports,2012
+federer,Sports,2010
+broncos,Sports,2010
+padres,Sports,2010
+quarterbacks,Sports,2007
+innings,Sports,2015
+huskies,Sports,2015
+postseason,Sports,2012
+bullpen,Sports,1997
+garnett,Sports,2013
+wilpon,Sports,1995
+quarterfinals,Sports,1997
+orioles,Sports,2013
+bowe,Sports,1995
+infielder,Sports,2014
+heisman,Sports,2015
+semifinal,Sports,2015
+quarterfinal,Sports,2012
+fastball,Sports,1997
+marbury,Sports,2000
+scorer,Sports,2013
+punt,Sports,1994
+sampras,Sports,2012
+steinbrenner,Sports,2013
+lemieux,Sports,1996
+flyers,Sports,2010
+interception,Sports,2008
+lockout,Sports,2009
+braves,Sports,2007
+scrimmage,Sports,1991
+sprewell,Sports,2002
+linemen,Sports,2009
+capriati,Sports,2000
+holyfield,Sports,1993
+leafs,Sports,2008
+offensively,Sports,2011
+baseman,Sports,2013
+gretzky,Sports,1998
+filly,Sports,2008
+teixeira,Sports,2009
+vick,Sports,2014
+goalie,Sports,2010
+redskins,Sports,2012
+zito,Sports,2008
+steelers,Sports,2010
+sprained,Sports,2006
+halftime,Sports,1990
+playoff,Sports,2007
+woodson,Sports,2012
+linebacker,Sports,2008
+ravens,Sports,2009
+nadal,Sports,2012
+mattingly,Sports,2015
+nicklaus,Sports,1994
+posada,Sports,2001
+diamondbacks,Sports,1997
+coughlin,Sports,2012
+fifa,Sports,2011
+phillies,Sports,2006
+knicks,Sports,2013
+ligament,Sports,2015
+lakers,Sports,2008
+hamstring,Sports,2007
+hitter,Sports,2007
+outfielder,Sports,2014
+buccaneers,Sports,2009
+colts,Sports,2011
+agassi,Sports,1998
+celtics,Sports,2013
+playoffs,Sports,2012
+clemens,Sports,2007
+jeter,Sports,2012
+chaney,Sports,2002
+chargers,Sports,1997
+striker,Sports,2010
+seles,Sports,1998
+cavaliers,Sports,2012
+fielder,Sports,1997
+matsui,Sports,2007
+bonilla,Sports,1990
+semifinals,Sports,2015
+gooden,Sports,1997
+clippers,Sports,2013
+slider,Sports,1997
+infield,Sports,2014
+scorers,Sports,1993
+torre,Sports,2007
+seeded,Sports,2015
+standings,Sports,2015
+messier,Sports,1996
+grizzlies,Sports,2013
+batted,Sports,1996
+quarterback,Sports,2007
+pistons,Sports,2006
+matchup,Sports,2013
+selig,Sports,2007
+shortstop,Sports,2014
+starks,Sports,1998
+lineman,Sports,1995
+raptors,Sports,2007
+relievers,Sports,2011
+wimbledon,Sports,2012
+mariano,Sports,2009
+batters,Sports,2013
+simms,Sports,1991
+assists,Sports,2008
+expos,Sports,1993
+cano,Sports,2012
+receivers,Sports,2015
+vikings,Sports,2008
+doping,Sports,2010
+indy,Sports,1994
+birdie,Sports,2015
+rams,Sports,2008
+chinen,Arts,2013
+sisario,Arts,2007
+glueck,Arts,2003
+tommasini,Arts,2008
+pareles,Arts,2008
+dunning,Arts,2007
+concerto,Arts,2015
+choreographers,Arts,2015
+cotter,Arts,2014
+saxophonist,Arts,2008
+stravinsky,Arts,2012
+ballets,Arts,2008
+balanchine,Arts,2015
+solos,Arts,1992
+bassist,Arts,2007
+soloist,Arts,2007
+trumpeter,Arts,2015
+soloists,Arts,2007
+ailey,Arts,2014
+symphonies,Arts,2014
+orchestras,Arts,2015
+sonata,Arts,2015
+schubert,Arts,2011
+marsalis,Arts,2012
+harmonies,Arts,2008
+pianists,Arts,2015
+vocals,Arts,1992
+orchestral,Arts,2008
+duets,Arts,2008
+libretto,Arts,2013
+riffs,Arts,1991
+soprano,Arts,2012
+melodic,Arts,1992
+quintet,Arts,2007
+ensembles,Arts,2013
+drummer,Arts,2008
+haydn,Arts,2011
+tully,Arts,2013
+shostakovich,Arts,2013
+philharmonic,Arts,2014
+deux,Arts,1991
+pas,Arts,1990
+brahms,Arts,2014
+schumann,Arts,2015
+cellist,Arts,2015
+melodies,Arts,1993
+rca,Arts,2013
+composers,Arts,2015
+saxophone,Arts,2013
+baritone,Arts,2012
+operas,Arts,2014
+pianist,Arts,2015
+juilliard,Arts,2013
+album,Arts,2015
+clarinet,Arts,2012
+chopin,Arts,2015
+chords,Arts,1990
+percussion,Arts,1991
+cornelia,Arts,2007
+moma,Arts,2015
+ballet,Arts,2008
+virtuosity,Arts,1990
+duet,Arts,2013
+tenor,Arts,2014
+spades,Arts,2005
+modernism,Arts,2015
+tchaikovsky,Arts,2015
+choreographer,Arts,2015
+rappers,Arts,1990
+conductors,Arts,2014
+aria,Arts,1992
+conductor,Arts,2015
+handel,Arts,2011
+dancers,Arts,2013
+spade,Arts,2005
+geffen,Arts,2015
+recital,Arts,2007
+violinist,Arts,2015
+mahler,Arts,1994
+untitled,Arts,2007
+getty,Arts,2007
+guitarist,Arts,2007
+premieres,Arts,2015
+ballads,Arts,1990
+albums,Arts,1991
+ratliff,Arts,2011
+mozart,Arts,2011
+curators,Arts,2015
+musically,Arts,1990
+choreography,Arts,1993
+drums,Arts,2015
+guitar,Arts,1990
+quartet,Arts,2008
+cello,Arts,2013
+guitars,Arts,1990
+composer,Arts,2015
+phrasing,Arts,1992
+violin,Arts,2015
+expressionist,Arts,2003
+frick,Arts,2011
+delancey,Arts,2008
+ballerina,Arts,1990
+orchestra,Arts,2013
+canvases,Arts,2015
+ballad,Arts,1990
+nutcracker,Arts,2010
+reggae,Arts,1991
+verdi,Arts,2013
+melody,Arts,1993
+solo,Arts,1990
+ruff,Arts,2003
+beethoven,Arts,2013
+rhythmic,Arts,1990
+virtuoso,Arts,2007
+compositions,Arts,2015
+idiom,Arts,1994
+pawn,Arts,1994
+rockers,Arts,2013
+minimalism,Arts,2014
+impressionist,Arts,2015
+sonic,Arts,1990
+symphony,Arts,2013
+opera,Arts,2014
+abstraction,Arts,2007
+matisse,Arts,2009
+dances,Arts,2007
+funk,Arts,1990
+vocalist,Arts,2014
+springsteen,Arts,1992
+flute,Arts,2013
+dancer,Arts,2015
+sculptural,Arts,2015
+artworks,Arts,1990
+songwriters,Arts,1992
+bach,Arts,2012
+flamenco,Arts,2009
+improvisation,Arts,1992
+danced,Arts,1990
+choral,Arts,2008
+modernist,Arts,1993
+ensemble,Arts,2013
+gogh,Arts,2007
+tunes,Arts,1990
+maslin,Arts,2014
+angelo,Arts,2013
+grammy,Arts,2007
+dummy,Arts,2004
+trio,Arts,2007
+premiere,Arts,2015
+acoustic,Arts,1991
+picasso,Arts,2015
+expressive,Arts,1992
+punk,Arts,1991
+overture,Arts,2015
+listener,Arts,1992
+rosenberg,Arts,2013
+operatic,Arts,2010
+guggenheim,Arts,2008
+piano,Arts,2015
+exhibitions,Arts,2015
+reprise,Arts,1990
+biennial,Arts,2004
+singers,Arts,2015
+bass,Arts,2015
+formats,Arts,1990
+harp,Arts,2015
+textures,Arts,1992
+cds,Arts,1990
+weill,Arts,1991
+surrealist,Arts,2015
+baroque,Arts,2012
+stylistic,Arts,1991
+bowery,Arts,2007
+lil,Arts,2014
+songwriter,Arts,1990
+lyrical,Arts,1990
+encore,Arts,2014
+psychedelic,Arts,2015
+minimalist,Arts,1990
+onstage,Arts,1990
+giovanni,Arts,1990
+choreographed,Arts,1990
+concerts,Arts,2014
+curator,Arts,2015
+waltz,Arts,1990
+drumming,Arts,1990
+streisand,Arts,2009
+songs,Arts,1990
+cd,Arts,1990
+recordings,Arts,1990
+carnegie,Arts,2013
+sings,Arts,2008
+keyboards,Arts,2007
+museums,Arts,2015
+libby,Arts,2014
+exhibition,Arts,2015
+collages,Arts,2015
+carlyle,Arts,1998
+rhythms,Arts,1993
+dance,Arts,2015
+benchmarks,U.S.,2001
+hastert,U.S.,2015
+http,U.S.,2002
+romneys,U.S.,2007
+caucuses,U.S.,2007
+mcdonnell,U.S.,2014
+romney,U.S.,2007
+santorum,U.S.,2012
+daschle,U.S.,2008
+moines,U.S.,2007
+understands,U.S.,2007
+sen,U.S.,2009
+daley,U.S.,2011
+applause,U.S.,2008
+sununu,U.S.,2008
+huckabee,U.S.,2007
+summaries,U.S.,2012
+gingrich,U.S.,2012
+axelrod,U.S.,2012
+leahy,U.S.,2009
+mccains,U.S.,2007
+cochran,U.S.,2014
+delegates,U.S.,2012
+mccain,U.S.,2007
+obama,U.S.,2007
+rep,U.S.,2007
+iowa,U.S.,2007
+rubio,U.S.,2015
+mcconnell,U.S.,2015
+biden,U.S.,2015
+mcveigh,U.S.,1995
+mitt,U.S.,2007
+hampshire,U.S.,2007
+caucus,U.S.,2012
+polls,U.S.,2012
+simpsons,U.S.,1995
+currie,U.S.,1998
+competence,U.S.,2003
+battleground,U.S.,2012
+clintons,U.S.,2015
+moderator,U.S.,2007
+nominating,U.S.,2015
+dodd,U.S.,2007
+obamas,U.S.,2007
+sheriff,U.S.,2015
+huntsman,U.S.,2011
+giuliani,U.S.,2007
+sotomayor,U.S.,2009
+boehner,U.S.,2015
+emanuel,U.S.,2011
+rodham,U.S.,2015
+cain,U.S.,2011
+delegate,U.S.,2012
+tsongas,U.S.,1991
+pollsters,U.S.,2010
+beatty,U.S.,2008
+kerrey,U.S.,1992
+sanders,U.S.,2015
+perry,U.S.,2011
+pelosi,U.S.,2014
+petraeus,U.S.,2015
+pac,U.S.,2015
+absentee,U.S.,2008
+pencils,U.S.,2005
+bushs,U.S.,2015
+aurora,U.S.,2003
+barack,U.S.,2007
+impeachment,U.S.,2009
+midterm,U.S.,2011
+redistricting,U.S.,2011
+polling,U.S.,2012
+incumbents,U.S.,2011
+alito,U.S.,2009
+pollster,U.S.,2012
+quayle,U.S.,2010
+primaries,U.S.,2010
+edwards,U.S.,2007
+strategists,U.S.,2012
+panetta,U.S.,1990
+graphs,U.S.,2007
+gramm,U.S.,1996
+appropriations,U.S.,2015
+trooper,U.S.,2015
+newt,U.S.,2012
+overview,U.S.,2007
+plutonium,U.S.,1990
+feingold,U.S.,2010
+evangelical,U.S.,2012
+grassley,U.S.,2015
+nominee,U.S.,2008
+deputies,U.S.,2015
+candidacy,U.S.,2015
+timeline,U.S.,2001
+campaigned,U.S.,2008
+rove,U.S.,2010
+solicitor,U.S.,2010
+perjury,U.S.,1990
+jeb,U.S.,1994
+poll,U.S.,2012
+filibuster,U.S.,2013
+schwarzenegger,U.S.,2008
+contests,U.S.,2008
+menendez,U.S.,2010
+parenthood,U.S.,2015
+palin,U.S.,2011
+bratton,U.S.,2007
+ordinance,U.S.,2010
+kagan,U.S.,2010
+gephardt,U.S.,2004
+allowance,U.S.,2007
+nunn,U.S.,2014
+nevada,U.S.,2012
+republicans,U.S.,2015
+compositions,U.S.,2007
+mormon,U.S.,2007
+advertisement,U.S.,2008
+independents,U.S.,2008
+cho,U.S.,2007
+recount,U.S.,2000
+voters,U.S.,2012
+steele,U.S.,2010
+tucson,U.S.,2011
+trump,U.S.,2015
+aides,U.S.,2012
+tripp,U.S.,1998
+bipartisan,U.S.,2013
+chiles,U.S.,1990
+paso,U.S.,2014
+statutory,U.S.,2000
+precincts,U.S.,2008
+stump,U.S.,2007
+blumenthal,U.S.,2015
+definitions,U.S.,2012
+breyer,U.S.,2015
+souter,U.S.,1990
+rudolph,U.S.,2007
+cruz,U.S.,2015
+whitman,U.S.,2010
+perot,U.S.,1996
+subpoenas,U.S.,1992
+lewinsky,U.S.,1998
+campaigning,U.S.,2008
+statewide,U.S.,2013
+nomination,U.S.,2008
+briefing,U.S.,2014
+vocabulary,U.S.,2012
+nader,U.S.,2000
+undecided,U.S.,2008
+gravel,U.S.,2007
+pataki,U.S.,2015
+carson,U.S.,2015
+bernie,U.S.,2015
+deposition,U.S.,1990
+nyt,U.S.,2014
+trumps,U.S.,2015
+holder,U.S.,2009
+clancy,U.S.,2015
+arlen,U.S.,2010
+admiral,U.S.,2010
+zimmerman,U.S.,2013
+mate,U.S.,2008
+mckinney,U.S.,1997
+affidavit,U.S.,1998
+mir,U.S.,1995
+ballots,U.S.,2008
+fema,U.S.,2011
+dictionary,U.S.,2014
+klan,U.S.,1990
+arkansas,U.S.,1992
+strickland,U.S.,2008
+lesbians,U.S.,2010
+specter,U.S.,2010
+candidates,U.S.,2011
+keystone,U.S.,2015
+repeal,U.S.,2010
+gibbs,U.S.,2009
+turnout,U.S.,2012
+electoral,U.S.,2012
+nichols,U.S.,1997
+demonstrates,U.S.,2007
+endorsement,U.S.,2008
+hillary,U.S.,2007
+voter,U.S.,2012
+advisers,U.S.,2008
+charleston,U.S.,2015
+pens,U.S.,2007
+byrd,U.S.,2010
+huffington,U.S.,1994
+uninsured,U.S.,2015
+campaigns,U.S.,2008
+clicked,U.S.,2011
+kemp,U.S.,1996
+medicaid,U.S.,2015
+congressman,U.S.,2007
+hagel,U.S.,2013
+teamsters,U.S.,1997
+schumer,U.S.,2013
+dukakis,U.S.,1992
+noriega,U.S.,1991
+attends,U.S.,2008
+nyt,World,1998
+mogadishu,World,2008
+mullah,World,2015
+kashmir,World,2013
+hollande,World,2011
+erdogan,World,2007
+musharraf,World,2013
+mahdi,World,2007
+ramallah,World,2007
+damascus,World,2012
+sadr,World,2011
+fatah,World,2008
+mosul,World,2008
+tutsi,World,2008
+airstrikes,World,2007
+hebron,World,2015
+annan,World,2012
+sharif,World,2007
+maliki,World,2010
+islamabad,World,2012
+allawi,World,2010
+gaza,World,2007
+suharto,World,2008
+militants,World,2007
+najaf,World,2007
+kurdish,World,2010
+ahmadinejad,World,2013
+timor,World,2006
+chechnya,World,2009
+saleh,World,2012
+peacekeepers,World,2011
+cleric,World,2007
+shiite,World,2009
+baath,World,2010
+syrian,World,2012
+abbas,World,2007
+abdel,World,2012
+warplanes,World,2012
+peacekeeping,World,2013
+gunmen,World,2008
+kandahar,World,2008
+mubarak,World,2010
+karzai,World,2011
+hezbollah,World,2013
+delhi,World,2013
+tripoli,World,2014
+nato,World,2010
+sarkozy,World,2006
+basra,World,2010
+hamas,World,2007
+chechen,World,2009
+insurgents,World,2013
+kurds,World,2010
+golan,World,2013
+kabul,World,2014
+tamil,World,2009
+mugabe,World,2009
+separatist,World,2014
+likud,World,2009
+islamist,World,2013
+agence,World,2000
+sunni,World,2012
+yemeni,World,2011
+mohammad,World,2012
+wounding,World,2007
+shiites,World,2013
+ayatollah,World,2013
+separatists,World,2007
+kosovo,World,1990
+pyongyang,World,2011
+detonated,World,2007
+shelling,World,2012
+militias,World,2015
+sinn,World,2007
+falluja,World,2009
+aziz,World,2007
+baghdad,World,2010
+afghan,World,2013
+jordanian,World,2010
+netanyahu,World,2013
+sectarian,World,2010
+insurgency,World,2013
+assad,World,2012
+envoy,World,2012
+afghans,World,2013
+parliamentary,World,2007
+bashar,World,2011
+myanmar,World,2011
+islamists,World,2012
+convoy,World,2007
+taliban,World,2013
+ismail,World,2007
+abdullah,World,2014
+militant,World,2013
+kurdistan,World,2010
+slovenia,World,1990
+province,World,2015
+insurgent,World,2007
+commandos,World,2010
+karachi,World,2010
+barak,World,2011
+lebanese,World,2013
+sunnis,World,2013
+policemen,World,2007
+fighters,World,2014
+parliament,World,2007
+syrians,World,2012
+iraqi,World,2010
+qaddafi,World,2011
+migrants,World,2015
+yemen,World,2015
+iraqis,World,2012
+xi,World,2014
+serbian,World,1990
+mahmoud,World,2012
+bosnia,World,1991
+ahmed,World,2007
+tibet,World,2013
+aristide,World,2011
+paramilitary,World,2009
+bhutto,World,2007
+hague,World,2011
+diplomats,World,2015
+tibetan,World,2012
+militia,World,2007
+hu,World,2012
+serb,World,1991
+colonel,World,2011
+amman,World,2015
+rebels,World,2011
+uprising,World,2012
+syria,World,2011
+serbs,World,2007
+pakistani,World,2011
+jakarta,World,2009
+palestinian,World,2015
+sudanese,World,2011
+algerian,World,2013
+hutu,World,2010
+serbia,World,1990
+bomber,World,2007
+herzegovina,World,1991
+philippine,World,2013
+ibrahim,World,2011
+guerrillas,World,2009
+croatian,World,1991
+libyan,World,2012
+chvez,World,2013
+bombings,World,2007
+brotherhood,World,2012
+lebanon,World,2013
+medvedev,World,2011
+ukrainian,World,2014
+rahman,World,2012
+mumbai,World,2012
+albanians,World,2006
+rioting,World,2009
+beirut,World,2012
+brigades,World,2014
+grenades,World,2011
+milosevic,World,2008
+berlusconi,World,2010
+ethiopian,World,2007
+rebel,World,2011
+iranians,World,2015
+ministry,World,2012
+rwandan,World,2010
+transitional,World,2011
+kiev,World,2014
+blockade,World,2006
+belgrade,World,1991
+gandhi,World,2013
+somalia,World,2006
+hosni,World,2012
+smugglers,World,2015
+clerics,World,2013
+clashes,World,2007
+abu,World,2012
+mali,World,2013
+provinces,World,2015
+bo,World,2013
+tehran,World,2010
+nairobi,World,2006
+abdul,World,2007
+paulo,World,1992
+hamid,World,2010
+cairo,World,2015
+fein,World,2002
+missiles,World,2013
+jiang,World,2012
+embassies,World,2015
+belarus,World,2007
+palestinians,World,2015
+tiananmen,World,2014
+darfur,World,2014
+civilians,World,2011
+abe,World,2007
+albanian,World,1990
+kremlin,World,2010
+mohamed,World,2013
+groom,Fashion and Style,2015
+graduated,Fashion and Style,1993
+bride,Fashion and Style,1994
+armani,Fashion and Style,2015
+versace,Fashion and Style,2015
+cocktails,Fashion and Style,1992
+farrell,Fashion and Style,2012
+prada,Fashion and Style,1998
+fiance,Fashion and Style,1991
+dior,Fashion and Style,2014
+trousers,Fashion and Style,2015
+gucci,Fashion and Style,2015
+bergdorf,Fashion and Style,2014
+stepfather,Fashion and Style,1990
+couture,Fashion and Style,2015
+cashmere,Fashion and Style,1998
+engagement,Fashion and Style,1992
+barneys,Fashion and Style,2014
+wedding,Fashion and Style,1992
+chanel,Fashion and Style,2014
+beta,Fashion and Style,1993
+denim,Fashion and Style,2014
+ceremony,Fashion and Style,1992
+skirts,Fashion and Style,1994
+satin,Fashion and Style,1995
+dresses,Fashion and Style,1994
+episcopal,Fashion and Style,1992
+earrings,Fashion and Style,2015
+vuitton,Fashion and Style,2014
+cantor,Fashion and Style,1990
+yeshiva,Fashion and Style,1990
+lace,Fashion and Style,2015
+mcqueen,Fashion and Style,1997
+designers,Fashion and Style,2015
+jackets,Fashion and Style,1994
+fashion,Fashion and Style,2015
+married,Fashion and Style,1991
+parenting,Fashion and Style,2010
+graduate,Fashion and Style,1990
+runways,Fashion and Style,2014
+fabrics,Fashion and Style,1994
+gown,Fashion and Style,2015
+granddaughter,Fashion and Style,1990
+runway,Fashion and Style,2015
+etiquette,Fashion and Style,2014
+stamps,Fashion and Style,1990
+vogue,Fashion and Style,2015
+westwood,Fashion and Style,1994
+coins,Fashion and Style,1993
+stylist,Fashion and Style,2013
+prospective,Fashion and Style,1990
+embroidered,Fashion and Style,2015
+fragrance,Fashion and Style,2011
+tufts,Fashion and Style,1993
+rev,Fashion and Style,1991
+gowns,Fashion and Style,2015
+fashions,Fashion and Style,1990
+plaid,Fashion and Style,2008
+blazer,Fashion and Style,2014
+skirt,Fashion and Style,1990
+daughter,Fashion and Style,1991
+masters,Fashion and Style,1993
+rabbi,Fashion and Style,1991
+sweaters,Fashion and Style,2014
+sandals,Fashion and Style,2014
+doctoral,Fashion and Style,1993
+showroom,Fashion and Style,2015
+zoom,Fashion and Style,1990
+freelance,Fashion and Style,1992
+lauder,Fashion and Style,2015
+cocktail,Fashion and Style,1993
+haute,Fashion and Style,2015
+garnish,Fashion and Style,2004
+presbyterian,Fashion and Style,1990
+watches,Fashion and Style,2014
+saks,Fashion and Style,2012
+jewelry,Fashion and Style,2014
+sweater,Fashion and Style,2014
+accessories,Fashion and Style,2015
+fitted,Fashion and Style,1995
+simons,Fashion and Style,2013
+canaan,Fashion and Style,1991
+wool,Fashion and Style,2013
+laurent,Fashion and Style,1994
+kenyon,Fashion and Style,1990
+necklace,Fashion and Style,2015
+tuxedo,Fashion and Style,2014
+silhouette,Fashion and Style,2014
+skillet,Fashion and Style,2004
+coats,Fashion and Style,2014
+cosmetic,Fashion and Style,2007
+tweed,Fashion and Style,1995
+mommy,Fashion and Style,2010
+minced,Fashion and Style,2004
+tablespoon,Fashion and Style,2001
+teaspoon,Fashion and Style,2002
+envelopes,Fashion and Style,1990
+designer,Fashion and Style,2014
+barnard,Fashion and Style,1993
+doctorate,Fashion and Style,1991
+linen,Fashion and Style,1990
+dartmouth,Fashion and Style,1991
+leather,Fashion and Style,2015
+tablespoons,Fashion and Style,2004
+servings,Fashion and Style,2004
+thyme,Fashion and Style,2002
+brunch,Fashion and Style,1990
+grated,Fashion and Style,2002
+cosmetics,Fashion and Style,2007
+degree,Fashion and Style,1993
+maternal,Fashion and Style,1993
+garments,Fashion and Style,2015
+cloves,Fashion and Style,2003
+glenn,Fashion and Style,2012
+helmut,Fashion and Style,2006
+sonoma,Fashion and Style,1998
+lens,Fashion and Style,1990
+coriander,Fashion and Style,2004
+appetizers,Fashion and Style,1990
+browned,Fashion and Style,2002
+julia,Fashion and Style,2012
+bartlett,Fashion and Style,1993
+dress,Fashion and Style,2013
+sneakers,Fashion and Style,2014
+tavern,Fashion and Style,2010
+boutique,Fashion and Style,1990
+amherst,Fashion and Style,1992
+replies,Fashion and Style,2008
+boca,Fashion and Style,1993
+buffet,Fashion and Style,1994
+jacket,Fashion and Style,1994
+regan,Fashion and Style,2015
+wardrobe,Fashion and Style,2014
+emory,Fashion and Style,1993
+velvet,Fashion and Style,1994
+cropped,Fashion and Style,2015
+conn,Fashion and Style,1990
+sprinkle,Fashion and Style,2003
+oversize,Fashion and Style,1990
+jeans,Fashion and Style,2015
+ordained,Fashion and Style,2013
+scallions,Fashion and Style,2002
+cabernet,Fashion and Style,2002
+pinot,Fashion and Style,2003
+parsley,Fashion and Style,2002
+pants,Fashion and Style,1994
+lime,Fashion and Style,2002
+footwear,Fashion and Style,2014
+chilies,Fashion and Style,2003
+shallots,Fashion and Style,2002
+fur,Fashion and Style,2015
+dough,Fashion and Style,2002
+lam,Fashion and Style,2013
+buds,Fashion and Style,1990
+lipstick,Fashion and Style,2006
+cumin,Fashion and Style,2003
+quandary,Fashion and Style,2012
+sauvignon,Fashion and Style,2002
+pillows,Fashion and Style,1991
+rag,Fashion and Style,2013
+decorator,Fashion and Style,1999
+seasoning,Fashion and Style,2003
+wines,Fashion and Style,2003
+cond,Fashion and Style,2015
+giorgio,Fashion and Style,1995
+ounces,Fashion and Style,2003
+bordeaux,Fashion and Style,2000
+binghamton,Fashion and Style,1990
+boomer,Fashion and Style,2009
+oven,Fashion and Style,2002
+diced,Fashion and Style,2002
+racks,Fashion and Style,2015
+chic,Fashion and Style,2014
+antiques,Fashion and Style,1992
+burgundy,Fashion and Style,2000
+almonds,Fashion and Style,2001
+napa,Fashion and Style,2001
+truffles,Fashion and Style,2004
+performed,Fashion and Style,1992
+vt,Fashion and Style,2013
+divorce,Fashion and Style,1990
+buttons,Fashion and Style,1990
+yves,Fashion and Style,2006
+weddings,Fashion and Style,2014
+trinity,Fashion and Style,1991
+wear,Fashion and Style,2015
+lenses,Fashion and Style,1990
+supper,Fashion and Style,1994
+peeled,Fashion and Style,2002
+roslyn,Fashion and Style,1990
+cilantro,Fashion and Style,2001
+waist,Fashion and Style,1994
+vinegar,Fashion and Style,2001
+celery,Fashion and Style,2002
+flavors,Fashion and Style,2004
+perfume,Fashion and Style,2015
+glamour,Fashion and Style,1994
+lauren,Fashion and Style,1992
+bulbs,Fashion and Style,1990
+grandfather,Fashion and Style,1993
+instagram,Technology,2011
+android,Technology,2009
+nokia,Technology,2012
+smartphone,Technology,2008
+browser,Technology,2015
+app,Technology,2009
+apps,Technology,2009
+pc,Technology,2010
+iphone,Technology,2007
+gartner,Technology,2014
+motorola,Technology,2013
+desktop,Technology,2012
+kindle,Technology,2007
+microsoft,Technology,2012
+spam,Technology,2012
+adobe,Technology,2011
+smartphones,Technology,2008
+computing,Technology,2008
+samsung,Technology,2012
+hackers,Technology,2012
+interface,Technology,2014
+ipad,Technology,2012
+zoom,Technology,2009
+tablet,Technology,2011
+password,Technology,2012
+macintosh,Technology,2002
+encryption,Technology,2012
+blackberry,Technology,2014
+google,Technology,2012
+sensor,Technology,2010
+xbox,Technology,2003
+cisco,Technology,2015
+tablets,Technology,2011
+netflix,Technology,2008
+nintendo,Technology,2011
+itunes,Technology,2009
+phones,Technology,2012
+uber,Technology,2012
+forrester,Technology,2014
+wireless,Technology,2009
+downloading,Technology,2008
+verizon,Technology,2009
+intel,Technology,2008
+skype,Technology,2010
+apples,Technology,2012
+dell,Technology,2009
+ipod,Technology,2002
+apple,Technology,2012
+software,Technology,2008
+headphones,Technology,2013
+laptops,Technology,2009
+printer,Technology,2009
+playstation,Technology,2000
+download,Technology,2009
+processors,Technology,2008
+printers,Technology,2012
+patents,Technology,2012
+blogs,Technology,2002
+servers,Technology,2012
+broadband,Technology,2009
+messaging,Technology,2000
+hardware,Technology,2012
+users,Technology,2012
+mobile,Technology,2012
+typing,Technology,1999
+gps,Technology,2008
+antenna,Technology,2010
+malicious,Technology,2009
+aol,Technology,2008
+bloggers,Technology,2003
+vista,Technology,2007
+user,Technology,2012
+beta,Technology,2009
+optical,Technology,2009
+analog,Technology,1998
+comcast,Technology,2008
+netscape,Technology,2000
+amazon,Technology,2012
+yahoo,Technology,2007
+server,Technology,1998
+devices,Technology,2012
+patent,Technology,2012
+browsing,Technology,2012
+downloaded,Technology,1998
+cloud,Technology,2014
+myspace,Technology,2012
+oracle,Technology,2012
+keyboard,Technology,2012
+chrome,Technology,2010
+dvd,Technology,1998
+twitter,Technology,2007
+blog,Technology,2003
+gadgets,Technology,2012
+laptop,Technology,2012
+ebay,Technology,1999
+cellular,Technology,2012
+click,Technology,1999
+facebook,Technology,2007
+compatible,Technology,2007
+atom,Technology,2009
+blogger,Technology,2003
+windows,Technology,2012
+clicks,Technology,2008
+napster,Technology,2006
+ram,Technology,1999
+blogging,Technology,2004
+computers,Technology,2012
+silicon,Technology,2012
+formats,Technology,2009
+disk,Technology,2009
+floppy,Technology,1998
+bing,Technology,2012
+qwest,Technology,1998
+alphabet,Technology,2015
+online,Technology,2000
+databases,Technology,1998
+audio,Technology,2003
+robots,Technology,1998
+portal,Technology,1998
+stereo,Technology,2009
+safari,Technology,2012
+privacy,Technology,2012
+rim,Technology,2012
+processor,Technology,2009
+discs,Technology,2009
+circuits,Technology,1999
+tab,Technology,2010
+piracy,Technology,2012
+www,Technology,1998
+worldcom,Technology,2000
+programmers,Technology,1999
+telecom,Technology,2004
+settings,Technology,2010
+sbc,Technology,2000
+filters,Technology,2012
+icon,Technology,2015
+sensors,Technology,2014
+clicking,Technology,2010
+graphics,Technology,2013
+digital,Technology,1998
+cyberspace,Technology,1998
+device,Technology,2012
+inventors,Technology,2001
+alerts,Technology,2012
+valve,Technology,2012
+compaq,Technology,2001
+mci,Technology,2005
+austen,Technology,2003
+sap,Technology,2012
+console,Technology,2014
+carriers,Technology,2012
+typed,Technology,2000
+mapping,Technology,2015
+files,Technology,2010
+mac,Technology,2006
+neutrality,Technology,2015
+electronics,Technology,2012
+hacking,Technology,2003
+networking,Technology,1999
+roaming,Technology,2012
+kodak,Technology,2008
+semiconductor,Technology,2004
+recorders,Technology,2001
+graph,Technology,2013
+surfers,Technology,1999
+playbook,Technology,2011
+infrared,Technology,2001
+database,Technology,1998
+maps,Technology,2012
+org,Technology,1998
+tech,Technology,2015
+directory,Technology,2000
+queries,Technology,2009
+disks,Technology,2000
+sites,Technology,2000
+galaxy,Technology,2013
+lotus,Technology,1993
+streaming,Technology,2000
+sony,Technology,2001
+capitalists,Technology,2015
+rebate,Technology,2000
+lenses,Technology,2011
+chat,Technology,2000
+swipe,Technology,2012
+boo,Technology,2000
+lens,Technology,2009
+hosting,Technology,2003
+dial,Technology,2002
+micro,Technology,2008
+cd,Technology,1999
+edit,Technology,2010
+robot,Technology,2002
+navigation,Technology,2012
+simulation,Technology,1998
+electronically,Technology,2000
+antitrust,Technology,2012
+messenger,Technology,2014
+explorer,Technology,1998
+grams,Health,2014
+milligrams,Health,2011
+cholesterol,Health,2014
+tablespoon,Health,2014
+thyroid,Health,2009
+teaspoon,Health,2014
+tablespoons,Health,2014
+prostate,Health,2008
+placebo,Health,2008
+sodium,Health,2013
+calcium,Health,2013
+tumors,Health,2010
+estrogen,Health,2006
+cancers,Health,2008
+vitamin,Health,2014
+aspirin,Health,2015
+therapies,Health,2008
+dietary,Health,2014
+menopause,Health,2004
+servings,Health,2013
+cardiovascular,Health,2012
+minced,Health,2014
+cloves,Health,2014
+calories,Health,2014
+vaccine,Health,2008
+hospice,Health,2009
+nutritional,Health,2014
+dementia,Health,2013
+antibiotic,Health,2009
+coronary,Health,2008
+implants,Health,2011
+insulin,Health,2008
+infections,Health,2009
+protein,Health,2010
+pediatrics,Health,2008
+grated,Health,2012
+patients,Health,2010
+nicotine,Health,2010
+mutations,Health,2010
+vitamins,Health,2009
+antibiotics,Health,2009
+hepatitis,Health,2008
+uninsured,Health,2010
+antidepressants,Health,2006
+arteries,Health,2015
+diabetes,Health,2008
+inflammation,Health,2002
+fat,Health,2014
+bacterial,Health,2009
+saturated,Health,2014
+influenza,Health,2008
+chemotherapy,Health,2012
+symptoms,Health,2008
+obese,Health,2007
+baucus,Health,2009
+infection,Health,2009
+arthritis,Health,2009
+kidney,Health,2012
+medications,Health,2008
+allergy,Health,2009
+implant,Health,2009
+vioxx,Health,2001
+caffeine,Health,2008
+cardiologist,Health,2015
+preventive,Health,2010
+asthma,Health,2009
+surgeons,Health,2013
+vaccines,Health,2011
+skillet,Health,2013
+disorders,Health,2009
+supplements,Health,2010
+fats,Health,1993
+transplant,Health,2012
+tumor,Health,2010
+chopped,Health,2014
+colon,Health,2008
+scans,Health,2010
+fatty,Health,2014
+hormone,Health,2002
+doses,Health,2010
+patient,Health,2010
+vaccination,Health,2011
+proteins,Health,1999
+virus,Health,2009
+artery,Health,2015
+medicare,Health,2009
+diagnosis,Health,2008
+responds,Health,2010
+cardiac,Health,2012
+abnormal,Health,2008
+schizophrenia,Health,2008
+incidence,Health,2008
+radiation,Health,2009
+viruses,Health,2009
+cilantro,Health,2014
+condom,Health,2013
+chronic,Health,2009
+sperm,Health,2002
+prescribe,Health,2004
+embryonic,Health,2010
+overweight,Health,2014
+flour,Health,2013
+cancer,Health,2009
+orthopedic,Health,2013
+disease,Health,2009
+browned,Health,2014
+lung,Health,2010
+liver,Health,2009
+premiums,Health,2010
+deductible,Health,2009
+roche,Health,2010
+injections,Health,2005
+clinical,Health,2010
+autism,Health,2011
+garnish,Health,2014
+diced,Health,2011
+tofu,Health,2012
+respiratory,Health,2009
+diets,Health,2009
+ebola,Health,2005
+insurers,Health,2010
+spinach,Health,2012
+hormones,Health,2002
+tuberculosis,Health,2007
+obesity,Health,1990
+spinal,Health,2012
+intravenous,Health,2009
+parsley,Health,2013
+flu,Health,2013
+marrow,Health,2012
+physicians,Health,2009
+baking,Health,2013
+cough,Health,2007
+microbes,Health,1996
+infected,Health,2009
+embryos,Health,2004
+births,Health,2003
+outpatient,Health,2005
+merck,Health,2004
+outbreaks,Health,2009
+genome,Health,1998
+embryo,Health,1997
+implanted,Health,2009
+pediatrician,Health,2009
+pfizer,Health,2011
+psychiatry,Health,2004
+pregnancies,Health,2004
+medicines,Health,2011
+cullen,Health,2004
+infectious,Health,2009
+fetal,Health,2003
+treatments,Health,2009
+diagnostic,Health,2011
+viral,Health,1991
+cells,Health,2008
+transplants,Health,2006
+therapy,Health,2009
+aetna,Health,2005
+medicaid,Health,2009
+diarrhea,Health,2009
+broccoli,Health,2014
+grains,Health,2012
+malpractice,Health,2003
+pharmacies,Health,2004
+pills,Health,2004
+diagnosed,Health,2008
+allergic,Health,2007
+invasive,Health,1991
+frying,Health,2010
+pediatric,Health,2004
+prescriptions,Health,2003
+surgical,Health,2008
+sprinkle,Health,2013
+medication,Health,2002
+leukemia,Health,2012
+polio,Health,2004
+tissues,Health,1991
+fertility,Health,2007
+breast,Health,2011
+doctors,Health,2009
+calorie,Health,1992
+tissue,Health,2008
+medicine,Health,2010
+genes,Health,1997
+researchers,Health,2008
+galaxies,Health,1998
+intake,Health,2015
+beta,Health,2010
+ounces,Health,2014
+cumin,Health,2014
+nutrients,Health,2009
+thyme,Health,2013
+dental,Health,2013
+bacteria,Health,2009
+hypothesis,Health,1993
+peeled,Health,2014
+psychiatrists,Health,2006
+biologists,Health,1994
+muscles,Health,2013
+refrigerator,Health,2014
+astronomers,Science,2014
+spacecraft,Science,2008
+mammals,Science,2011
+galaxies,Science,2010
+fossils,Science,2011
+antarctica,Science,2012
+telescope,Science,2008
+astronauts,Science,2006
+microbes,Science,2011
+physicists,Science,2013
+molecules,Science,2014
+moose,Science,2012
+nasa,Science,2010
+methane,Science,2011
+genome,Science,2013
+biologists,Science,2011
+organisms,Science,2011
+shuttle,Science,2006
+particle,Science,2013
+planetary,Science,2014
+females,Science,2011
+dioxide,Science,2011
+biologist,Science,2011
+reef,Science,2010
+species,Science,2011
+vegetation,Science,2011
+wolves,Science,2012
+solar,Science,2009
+planets,Science,2011
+fisheries,Science,2012
+turtles,Science,2010
+renewable,Science,2010
+males,Science,2011
+whales,Science,2011
+fahrenheit,Science,2012
+genes,Science,2014
+astronaut,Science,2007
+particles,Science,2015
+ants,Science,2015
+evolutionary,Science,2015
+habitat,Science,2011
+ozone,Science,2012
+constellation,Science,2010
+forests,Science,2011
+fossil,Science,2010
+ethanol,Science,2010
+turbines,Science,2009
+pollutants,Science,2010
+hydrogen,Science,2014
+orbit,Science,2006
+carbon,Science,2009
+viruses,Science,2010
+worms,Science,2011
+traps,Science,2011
+dinosaurs,Science,2010
+quantum,Science,2015
+cloning,Science,2007
+ecology,Science,2011
+ecological,Science,2011
+coral,Science,2012
+proteins,Science,2009
+conservation,Science,2011
+insect,Science,2011
+mutations,Science,2011
+monkeys,Science,2010
+emissions,Science,2009
+expedition,Science,2010
+archaeologists,Science,2010
+mars,Science,2014
+infrared,Science,2009
+scientists,Science,2011
+specimens,Science,2010
+geological,Science,2010
+oceans,Science,2011
+extinct,Science,2012
+microscopic,Science,2010
+dunes,Science,2012
+kyoto,Science,2009
+insects,Science,2012
+endangered,Science,2011
+satellites,Science,2011
+gases,Science,2011
+extinction,Science,2011
+yellowstone,Science,2012
+reactors,Science,2009
+wildlife,Science,2012
+arctic,Science,2012
+dams,Science,2013
+dinosaur,Science,2010
+bathrooms,Real Estate,2006
+bath,Real Estate,1992
+bedrooms,Real Estate,2015
+doorman,Real Estate,1992
+fireplace,Real Estate,1993
+realty,Real Estate,1994
+condos,Real Estate,2012
+condo,Real Estate,2012
+bedroom,Real Estate,1992
+duplex,Real Estate,1990
+prewar,Real Estate,1990
+condominiums,Real Estate,2011
+garage,Real Estate,1991
+condominium,Real Estate,2015
+den,Real Estate,1990
+foyer,Real Estate,2015
+broker,Real Estate,1994
+detached,Real Estate,1994
+deductible,Real Estate,1991
+baths,Real Estate,2015
+tenant,Real Estate,2012
+concierge,Real Estate,1995
+foreclosure,Real Estate,1998
+tudor,Real Estate,1995
+cons,Real Estate,2005
+corcoran,Real Estate,1993
+penthouse,Real Estate,2015
+patio,Real Estate,1990
+prudential,Real Estate,2005
+brownstone,Real Estate,1992
+listed,Real Estate,1995
+ranch,Real Estate,1992
+lender,Real Estate,1991
+cabinets,Real Estate,2015
+ceilings,Real Estate,2015
+cod,Real Estate,1992
+renters,Real Estate,2010
+closets,Real Estate,2015
+residences,Real Estate,2006
+appliances,Real Estate,2015
+colonial,Real Estate,1991
+wakefield,Real Estate,1996
+stucco,Real Estate,2015
+brokers,Real Estate,1995
+dining,Real Estate,1992
+rockland,Real Estate,2005
+landlord,Real Estate,2013
+lease,Real Estate,2015
+rents,Real Estate,1991
+occupancy,Real Estate,2012
+vacancy,Real Estate,1996
+rand,Real Estate,2006
+apartments,Real Estate,2007
+loft,Real Estate,1994
+tile,Real Estate,2015
+floors,Real Estate,2015
+tub,Real Estate,2015
+porch,Real Estate,1991
+renovated,Real Estate,2015
+acre,Real Estate,2006
+basement,Real Estate,1991
+homeowner,Real Estate,1991
+rentals,Real Estate,2011
+terrace,Real Estate,2015
+tenants,Real Estate,1991
+approvals,Real Estate,1997
+amenities,Real Estate,2007
+listing,Real Estate,2015
+op,Real Estate,1992
+stainless,Real Estate,2015
+stabilized,Real Estate,2011
+pros,Real Estate,2005
+rental,Real Estate,2015
+zoning,Real Estate,1992
+landlords,Real Estate,1993
+borrowers,Real Estate,2006
+redevelopment,Real Estate,1991
+furnished,Real Estate,2015
+buyer,Real Estate,2015
+commute,Real Estate,2008
+roommates,Real Estate,2015
+leasing,Real Estate,2012
+indoors,Real Estate,2015
+mortgage,Real Estate,1997
+buyers,Real Estate,2015
+grams,Home and Garden,1993
+cabernet,Home and Garden,1994
+milligrams,Home and Garden,1993
+approximate,Home and Garden,1993
+sauvignon,Home and Garden,1991
+cumin,Home and Garden,1992
+sodium,Home and Garden,1993
+bordeaux,Home and Garden,1991
+merlot,Home and Garden,1994
+skillet,Home and Garden,1992
+wineries,Home and Garden,1994
+deductible,Home and Garden,2007
+ounces,Home and Garden,1995
+wines,Home and Garden,1990
+calories,Home and Garden,1993
+pinot,Home and Garden,1994
+chardonnay,Home and Garden,1994
+parsley,Home and Garden,1991
+chateau,Home and Garden,1995
+servings,Home and Garden,1993
+grated,Home and Garden,1991
+coriander,Home and Garden,1992
+winery,Home and Garden,1991
+zucchini,Home and Garden,1990
+teaspoon,Home and Garden,1992
+sauces,Home and Garden,1992
+vineyards,Home and Garden,1991
+tablespoons,Home and Garden,1992
+tablespoon,Home and Garden,1992
+nutritional,Home and Garden,1996
+broth,Home and Garden,1991
+vinegar,Home and Garden,1993
+shallots,Home and Garden,1990
+napa,Home and Garden,1994
+sprinkle,Home and Garden,1992
+grape,Home and Garden,1992
+sonoma,Home and Garden,1991
+blanc,Home and Garden,1993
+flakes,Home and Garden,1993
+recipes,Home and Garden,1991
+oven,Home and Garden,1990
+cookbook,Home and Garden,1991
+burgundy,Home and Garden,1990
+onions,Home and Garden,1992
+gardeners,Home and Garden,2008
+soy,Home and Garden,1992
+thyme,Home and Garden,1991
+parmesan,Home and Garden,1990
+cheeses,Home and Garden,1990
+grapes,Home and Garden,1992
+recipe,Home and Garden,1992
+yoga,Home and Garden,1993
+truffles,Home and Garden,1992
+chefs,Home and Garden,1992
+chopped,Home and Garden,1992
+cubes,Home and Garden,1992
+mayonnaise,Home and Garden,1990
+culinary,Home and Garden,1991
+cookbooks,Home and Garden,1996
+boil,Home and Garden,1991
+wine,Home and Garden,1991
+espresso,Home and Garden,1993
+tasting,Home and Garden,1991
+peeled,Home and Garden,1991
+textiles,Home and Garden,2007
+bath,Home and Garden,2007
+cloves,Home and Garden,1990
+caviar,Home and Garden,1993
+mashed,Home and Garden,1991
+yogurt,Home and Garden,1991
+scallions,Home and Garden,1993
+sausages,Home and Garden,1990
+celery,Home and Garden,1991
+steaks,Home and Garden,1990
+tofu,Home and Garden,1991
+onion,Home and Garden,1992
+prewar,Home and Garden,2007
+fennel,Home and Garden,1990
+unpublished,Home and Garden,2007
+seasoning,Home and Garden,1993
+caramel,Home and Garden,1993
+peas,Home and Garden,1990
+protein,Home and Garden,1993
+diced,Home and Garden,1990
+kosher,Home and Garden,1992
+finely,Home and Garden,1993
+prosciutto,Home and Garden,1992
+pepper,Home and Garden,1991
+browned,Home and Garden,1992
+vines,Home and Garden,1995
+cocoa,Home and Garden,1992
+brandy,Home and Garden,1994
+flavors,Home and Garden,1992
+decorator,Home and Garden,2006
+noodles,Home and Garden,1991
+garlic,Home and Garden,1992
+cilantro,Home and Garden,1996
+dumplings,Home and Garden,1995
+cooking,Home and Garden,1990
+cook,Home and Garden,1991
+truffle,Home and Garden,1991
+freshly,Home and Garden,1992
+shrubs,Home and Garden,2008
+cinnamon,Home and Garden,1992
+butter,Home and Garden,1990
+olive,Home and Garden,1992
+cholesterol,Home and Garden,1993
+cups,Home and Garden,1992
+capers,Home and Garden,1992
+chilies,Home and Garden,1990
+mango,Home and Garden,1993
+spoon,Home and Garden,1991
+spices,Home and Garden,1991
+dish,Home and Garden,1992
+broccoli,Home and Garden,1993
+potatoes,Home and Garden,1992
